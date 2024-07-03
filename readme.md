@@ -2,4 +2,4 @@
 
 this project was created from local system 
 
-cretaed by Rahul Agarwal.
+created by Rahul Agarwal
